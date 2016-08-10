@@ -12,7 +12,6 @@ Pod::Spec.new do |s|
 
   s.author             = { "renwoxing" => "1362739284@qq.com" }
 
-  s.platform     = :ios
   s.platform     = :ios, "9.0"
 
   s.source       = { :git => "https://github.com/renwoxing/ThreeRingControl.git", :tag => "1.0.0" }
